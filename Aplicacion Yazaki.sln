@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Codigo", "Demo\Codigo.vbproj", "{F855EF6F-7642-4E4A-A11B-58029788DD24}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "Cab", "SmartDeviceCab2\SmartDeviceCab2.vddproj", "{D3857193-F50E-4D0B-ABD9-D2668B41A456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F855EF6F-7642-4E4A-A11B-58029788DD24}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D3857193-F50E-4D0B-ABD9-D2668B41A456}.Debug|Any CPU.ActiveCfg = Debug
+		{D3857193-F50E-4D0B-ABD9-D2668B41A456}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
